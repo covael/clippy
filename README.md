@@ -1,0 +1,2 @@
+# clippy
+Clip In/Out
